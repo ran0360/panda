@@ -1,0 +1,22 @@
+import turtle
+wn = turtle.Screen()
+wn = turtle.Turtle()
+wn.color("blue")
+wn.forward(80)
+wn.left(90)
+wn.forward(80)
+wn.left(90)
+wn.forward(80)
+wn.left(90)
+wn.forward(80)
+wn.left(90)
+wn.forward(95)
+wn.left(90)
+wn.forward(95)
+wn.left(90)
+wn.forward(95)
+wn.left(90)
+wn.forward(95)
+wn.left(90)
+
+
